@@ -24,6 +24,6 @@ int main() {
 
     // Display the circumference
     std::cout << "The Circumference is " << circumference;
-    std::cout << "km" << "\u00b2";
+    std::cout << "km";
     std::cout << std::endl;
 }
